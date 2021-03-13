@@ -1,0 +1,8 @@
+site_name: "brock-docs"
+site_description: "chomper"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

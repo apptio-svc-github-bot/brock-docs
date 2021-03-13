@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "brock-docs"
+  description: "chomper"
+  annotations:
+    github.com/project-slug: rmanny/brock-docs
+    backstage.io/techdocs-ref: url:https://github.com/rmanny/brock-docs
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "user:rmanny"
